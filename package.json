@@ -1,0 +1,24 @@
+{
+  "name": "arangoose",
+  "version": "0.0.0",
+  "description": "Mongoose-API like ODM for arangojs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyrilchapon/arangoose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyrilchapon/arangoose/issues"
+  },
+  "homepage": "https://github.com/cyrilchapon/arangoose#readme",
+  "dependencies": {
+    "arangojs": "^5.7.1",
+    "joi": "^13.0.1",
+    "lodash": "^4.17.4"
+  }
+}
